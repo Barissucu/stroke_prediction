@@ -1,5 +1,5 @@
 # Stroke Risk Prediction
-A model that calculates the risk in which users pose data pose for a stroke based on their demographic and biological data. This project aims to help users understand which factors may contribute to their stroke risk and provide insights beyond a simple “Yes” or “No” prediction.
+A model that calculates the risk in which users pose for a stroke based on their demographic and biological data. This project aims to help users understand which factors may contribute to their stroke risk and provide insights beyond a simple “Yes” or “No” prediction.
 
 ## Description
 
